@@ -1,5 +1,8 @@
 # File with secret token 
 .clasp.json
 
+# WebStorm
+./.idea
+
 # Local Packages
 node_modules/
