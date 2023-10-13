@@ -1,4 +1,5 @@
 function setWebhook() {
+  // 0. Вставить id таблицы в свойства скрипта с именем SPREADSHEET_ID
   // 1. Вставить токен бота из BotFather в свойства скрипта с именем BOT_TOKEN
   let token = PropertiesService.getScriptProperties().getProperty('BOT_TOKEN'); 
 
