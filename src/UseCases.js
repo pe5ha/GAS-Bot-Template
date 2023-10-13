@@ -11,7 +11,7 @@ function useCases(){
     startCommand();
   }
   
-  botSendMessage(chat_id, text); // eho
+  botSendMessage(chat_id, "pb" + text); // eho
 
 }
 
